@@ -1,0 +1,3 @@
+﻿  linkedlist.c
+C:\Users\AYSU\source\repos\kitap\kitap\linkedlist.c(29): warning C4716: 'travel' : bir değer döndürmelidir
+  kitap.vcxproj -> C:\Users\AYSU\source\repos\kitap\x64\Debug\kitap.exe
